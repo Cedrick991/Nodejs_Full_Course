@@ -2,13 +2,13 @@
   "name": "server",
   "version": "1.0.0",
   "description": "Zoom clone",
-  "homepage": "https://github.com/Cedrick991/Task_Managing-site#readme",
+  "homepage": "https://github.com/Cedrick991/Nodejs_Full_Course.git#readme",
   "bugs": {
-    "url": "https://github.com/Cedrick991/Task_Managing-site/issues"
+    "url": "https://github.com/Cedrick991/Nodejs_Full_Course.git/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Cedrick991/Task_Managing-site.git"
+    "url": "git+https://github.com/Cedrick991/Nodejs_Full_Course.git"
   },
   "license": "ISC",
   "author": "CedrickUnida",
